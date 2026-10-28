@@ -1,15 +1,15 @@
 ## Hi there 👋, My name is Mustafa Batuhan Bayoğlu
 
-### I am a computer engineer student at Eskişehir Osmangazi University. I have studied in Technical University of Cluj-Napoca during my 2nd grade due to Erasmus Mobility
-Born in 1998. Now, I'm living in Eskişehir.
+### I am a sofware engineer. 
 
 * 💻 Skills: 
+   * Scala, Akka Framework, Cassandra, Mongo DB, Kafka
    * C / C++ / C# (Worked with these programming langues during the my university education)
    * HTML, CSS, JavaScript, React, Java Spring Boot Framework, MySQL, Jasper Studio
 
-* 🔭 I’m currently working with Java Spring Boot Framework and React
+* 🔭 I’m currently working with Scala
 
-* 🌱 I’m currently learning Java Spring Boot Framework and React
+* 🌱 I’m currently learning AI environments
 
 * 📫 How to reach me: bayoglubatuhan@gmail.com
 
